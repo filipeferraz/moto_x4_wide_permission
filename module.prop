@@ -1,6 +1,6 @@
 id=MOTO_X4_Lineage_base_Wide_lens_permission
 name=MOTO_X4_Lineage_base_Wide_lens_permission
-version=v1
+version=v1.1.0
 versionCode=1
 author=filipepferraz
 description=Give permission to access wide lens in lineage base ROM for MOTO X4.
