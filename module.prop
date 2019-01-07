@@ -1,7 +1,7 @@
-id=MOTO_X4_Lineage_base_Wide_lens_permission
-name=MOTO_X4_Lineage_base_Wide_lens_permission
+id=MOTO_X4_Lineage_base_Wide_lens_permission_stock_pie
+name=MOTO_X4_Lineage_base_Wide_lens_permission_stock_pie
 version=v1.1.0
 versionCode=1
 author=filipepferraz
-description=Give permission to access wide lens in lineage base ROM for MOTO X4.
+description=Give permission to access wide lens in Stock Pie ROM for MOTO X4.
 minMagisk=1500

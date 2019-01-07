@@ -1,6 +1,5 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-vendor.camera.aux.packageblacklist=com.google.android.GoogleCamera
-
+vendor.camera.aux.packagelist2=com.motorola.ccc,org.codeaurora.snapcam
 
